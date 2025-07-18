@@ -58,3 +58,6 @@ Mobile or Web Apps: Forms the backend logic for weather-based apps and widgets.
 Conclusion:
 This project effectively showcases how to connect to a real-world API, parse structured JSON data, and transform it into meaningful visual insights. By combining data from the OpenWeatherMap API with Python's data handling and visualization capabilities, the task builds a foundation for more complex data-driven applications. This is a strong example of using external data sources and presenting the information in a user-friendly, graphical format that can be understood at a glance.
 
+Output Link
+
+https://github.com/user-attachments/assets/59417b09-821a-4a98-8444-a699a7c8e820
