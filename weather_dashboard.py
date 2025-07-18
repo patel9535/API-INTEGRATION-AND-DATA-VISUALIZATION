@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # -------- Configuration --------
-API_KEY = '6c4e4e48d4683b9b7aa6d9d90e543d28'  # Replace with your actual API key
-CITY = 'canada'  # Replace with your desired city
+API_KEY = '6c4e4e48d4683b9b7aa6d9d90e543d28'  
+CITY = 'canada'  
 URL = f'http://api.openweathermap.org/data/2.5/forecast?q={CITY}&appid={API_KEY}&units=metric'
 
 # -------- Fetch Weather Data --------
